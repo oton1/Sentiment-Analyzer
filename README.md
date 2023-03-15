@@ -1,4 +1,4 @@
-This code basically analyze the sentiment scores of different reviews of a Amazon far-right book. 
+This code basically analyze the sentiment scores of different reviews of far-right book that is being sold on Amazon.
 It uses NLTK library to do the sentiment analysis, and Matplotlib and Wordcloud for presentation, 
 presenting the outputs of the code in a understandable way. 
 My goal doing this is to show that data science can make a way into the History field, and to demonstrate that
